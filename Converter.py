@@ -8,3 +8,7 @@ print(miles, "miles is", round(miles_to_kilometers, 2), "kilometers")
 print(kilometers, "kilometers is", round(kilometers_to_miles, 2), "miles")
 # new info
 #new info
+
+y = 1 // 2 * 3
+
+print(y)
